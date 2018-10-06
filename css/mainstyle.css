@@ -1,0 +1,111 @@
+*{
+    padding: 0px;
+     margin: 0px;   
+}
+body{
+    font-family: 'Comfortaa', cursive;
+}
+.ch{
+    padding-top: 60px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 170px;
+
+}
+.ch1{
+    text-align: center;
+    position: absolute;
+}
+.ch4{
+    height: 900px;
+
+    background: #373B44;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */ 
+    background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding-top: 100px;
+}
+.ch5{
+    background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    width: 80%;
+    height: 700px;
+    left: 100px;
+    padding-top: 10px;
+    color: azure;
+    top: -50px;
+    position: relative;
+    text-align: center;
+}
+.ch6{
+    left: 380px;
+    
+}
+.ch7{
+    left: 780px;
+}
+.ch8{
+    left: 1150px;
+}
+.im1{
+    margin-left: -78px;
+}
+.im2{
+    margin-left: -110px;
+}
+.im3{
+    margin-left:-145px;
+}
+.im4{
+    margin-left:-145px;
+}
+.c1{
+    margin-top: 200px;
+    width:100%;
+    height:170px;
+    background: #24C6DC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+
+}
+.c2{
+    width:75%;
+    background: #0f0c29;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    align-self: center;
+    height:100%;
+    margin-left: 180px;
+
+}
+
+.c3{
+    margin-left: 450px;
+    padding-top: 80px;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: antiquewhite;
+}
+
+.cont1{
+    margin-top: 100px;
+}
+
+.abtus{
+    background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    width:100%;
+    height: 300px;
+    margin-top: 100px;
+}
+.text{
+    padding-top: 45px;
+    font-size: 20px;
+    color: antiquewhite;
+}
